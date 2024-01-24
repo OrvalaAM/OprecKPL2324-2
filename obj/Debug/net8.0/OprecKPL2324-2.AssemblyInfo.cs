@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OprecKPL2324-2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfe70b71ab655e1c318e3328c7779faf8ab1bce1")]
 [assembly: System.Reflection.AssemblyProductAttribute("OprecKPL2324-2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OprecKPL2324-2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
